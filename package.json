@@ -31,7 +31,7 @@
     "datatables.net-dt": "1.10.21",
     "eslint": "7.8.1",
     "jest": "26.2.2",
-    "jquery": "1.11.0",
+    "jquery": "3.5.1",
     "jquery-migrate": "1.2.1",
     "jquery-ui": "1.12.1",
     "jquery-validation": "1.19.2",
